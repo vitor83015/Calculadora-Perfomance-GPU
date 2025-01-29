@@ -1,2 +1,2 @@
 # My-Apllication
-Testes e Demonstrações
+Calculadora de performance de GPUS
